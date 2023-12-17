@@ -1,0 +1,4 @@
+Precisamos:
+1. Pensar em um forma de preencher os dados faltantes da coluna 'vendas_semanais' no conjunto de dados de treino
+2. Pensar em um forma de preencher os dados faltantes da coluna 'temperatura' no conjunto de dados de treino
+3. Pensar em um forma de preencher os dados faltantes da coluna 'combustivel' no conjunto de dados de treino
